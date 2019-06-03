@@ -173,6 +173,22 @@ Good intentions: Committees are unlikely to be experts in your domain byt they a
 # Afternoon session (13.45–17.00)
 Primarily focused on exercises
 
+## Pairing exercise
+Pair an aim (problem) with an objective (implementation). We need to know X because Y. We will do Z and it will tell us X.
+
+### My attempt for the EU-HomeBank project:
+
+**We need to know X because Y.**
+
+We need to know how the human sensory system constrains children's early word learning across languages because ...
+
+* _Humanities foundation:_ ir will shed light on the cognitive origins and limits of the unique capacity for complex language. 
+* _Public health foundation:_ we can utilize universal processes for language learning to support the development and maintenance of language skills in adults and children.
+
+**We will do Z and it will tell us X.**
+
+We will investigate whether children across the globe break into language by learning words that reflect real-world aesthetic experiences ("iconic" words; e.g., cock-a-doodle-doo), which will tell us how the human sensory system constrains early language learning.
+
 ## Promise sentence exercise
 The first sentence should make the reader want to keep reading. Remember that the committee member might have 100 other applications to read.
 
@@ -205,36 +221,62 @@ how do you coordinate
 ### Amie's project (my attempt)
 The aim of this project is to better understand how different areas of the brain coordinate rapidly to enable everyday conversation by making precision measurements of brain activity via MEG while participants do tasks where they must rapidly switch between speaking and listening, building on innovative real-time interaction experiment methods we recently developed.
 
-### My project (my attempt)
+### My EU-HomeBank project (my attempt)
 The aim of this project is to uncover how children's everyday experience of sights, sounds, tastes, and textures shapes the foundation for their language learning by studying children's early productive vocabulary across a range of everyday contexts in homes across Europe, North America, and other regions of the globe by significantly expanding on a set of tools and recording collections we have previously used for comparative projects on children's early language development.
 
-### My project (Amie's attempt)
+### My EU-HomeBank project (Amie's attempt)
 The aim of the project is to discover whether shared ss drive languaglg across a diverse range of languages and culres by cuollecting and analyzign daylong recs of infants' early speech using techniques i have established in prev data collection
 
-### My project (my attempt 2)
-This project will shed light on how young children's everyday experience of sights, sounds, tastes, and textures creates a foundation for language learning by extending and analyzing a set of audio recordings made during whole waking days in children's homes using open-source tools and databases we developed for a recent multi-site comparative project.
+### My EU-HomeBank project (my attempt 2)
+This project will examine how the sights, sounds, tastes, and textures of young children's everyday lives creates a foundation for their language learning by analyzing a diverse collection of recordings made during whole waking days in family homes around the globe, extending tools we developed in a previous multi-site comparative project.
+
+## Writing guidelines
+* The reader should know why they're reading what they are reading. The assert-then-justify approach (i.e., make a statement and then explain it) is a useful tool for doing that.
+* Use repetition of a small set of unambiguous words:
+	* Avoid synonyms, particularly for key terms. Instead, pick the best term and use it repeatedly
+	* Avoid homonyms
+	* Use tag phrases
+	* "it doesn't look boring, it looks clear"
+* Keep it short
+	* Short paragraphs (~6 per page)
+	* Short sentence: avoid adverbs, adjectives, and nominalizations
+* Use headings, sub-headings, and white space
+	* Re-use phrases from the key sentences
+* Parallel writing: use similar structures for sentences with similar function
+* Avoid value claims and state evidence instead
+* Bullet lists are good, but lists inside paragraphs are bad
+* Avoid coining new abbreviations/initializations/acronyms altogether if possible (okay if they're common, existing ones)
 
 
+## Write the Problem & Implementation sentences
+Describe a sub-project and say what problem it will solve. Remember that the sub-projects need to be defined _before_ you define the problem.
 
-## Pairing exercise
-Pair an aim (problem) with an objective (implementation). We need to know X because Y. We will do Z and it will tell us X.
+**For each implementation pair you need to identify:**
 
-### MC's attempt at the EU-HomeBank project:
+1. What the research will consist of
+2. What the outcome will be
 
-**We need to know X because Y.**
+**Common mistakes:**
 
-We need to know how the human sensory system constrains children's early word learning across languages because ...
+* Failing to describe research
+* Failing to say what problem it solves
+* Forgetting to use the same description as the problem sentences
+* Changing the syntactic structure unnecessarily
+* Too long
 
-* _Humanities foundation:_ it will shed light on the cognitive origins and limits of the unique capacity for complex language. 
-* _Public health foundation:_ we may be able to utilize universal processes for language learning to support the development and maintenance of language skills in adults and children.
+### My first attempt at sub-projects for EU-HomeBank
+1. Collect CDI & LENA data from EU and other language families for kids between 1;6 and 3;0
+2. Annotate and analyze use of early lexicon (other vs. perception verbs and iconic words) in children's speech
+3. Annotate and analyze contexts of use for perception verbs and iconic words in children's speech
 
-**We will do Z and it will tell us X.**
-
-We will investigate whether children across the globe break into language by learning words that reflect real-world aesthetic experiences ("iconic" words; e.g., cock-a-doodle-doo), which will tell us how the human sensory system constrains early language learning.
-
-## Implementation sentences
-## Problem sentences
 ## Write the Project and Next sentences
+The Project sentence summarizes the project in whatever way is appropriate. If they only read 1 sentences about your project, it will be this one. Summarize the project or state its scope. Go beyond the Promise sentence.
+
+The Next sentences introduces your discussion of what will happen after the research is complete. It will depend on whether the importance is academic or practical or both (e.g., state in ~40 words what you will do to maximize the benefit from the project).
+
 ## Write the Global Sales Pitch
+Also known as the **Elevator pitch**. This sentence should state why they outcome is important:
+1. Give some stats/evidence for a real-world problem the project will help solve2. Say what the project will allow us to do that we can’t do now3. Prepare to say which funder priorities it contributes to (and how)
+
 ## Review exercise
 ## Examples
