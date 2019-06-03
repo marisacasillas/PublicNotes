@@ -1,11 +1,13 @@
 Speaker: Andrew Derrington, Parker Derrington Ltd.
+
 Date: 3 June 2019
+
 Location: MPI, Nijmegen, Netherlands
 
 His company's primary aim is writing and teaching people how to write research grants. If you go to the Events page on his website, you can get the [handout](https://parkerderrington.com/wp-content/uploads/2019/02/Handout.pdf) and the [slides](https://www.parkerderrington.com/wp-content/uploads/2019/05/slides.pdf) from the workshop.
 
 
-# Morning session (10.00–10.30)
+# Morning session (10.00–12.45)
 
 ## Research project grants
 Grant type: Funds that enable you to carry out a research project
@@ -56,11 +58,18 @@ _Goal:_ Produce a super clear case of support in which the information leaps out
 	* **Use a small set of ideas to create multiple projects:** different outcomes, different datasets, different collaborators (your skill contributes to different questions), different approaches to the same RQ, different combinations of sub-projects
 * What does the agency want to fund?: **check the funder's website** for their own advertised aims/criteria and also for projects they've already funded.
 * If you get 6 rejections, it's time to develop a new set of ideas
+* **Only follow great examples.** Are there 1-line answers to:
+	* What is the overall aim?
+	* What makes it important?
+	* What are the overall methods?
+	* What are the 3–4 main problems the project needs to solve?
+	* What will happen after?
+	* ... if finding and writing down those answers takes more than 10 minutes, don't follow the doc as a close example.
 * Be convincing and do your background research: **funders don't want to fund something that can't be done or something that someone else has already funded**
 
 ## Getting ready to write
 * Find a matching funder for your project
-	* Think about the specific form of the project that matches with the funder's aims (see #Strategy above)
+	* Think about the specific form of the project that matches with the funder's aims (see **#Strategy** above)
 * Define your three sub-projects: Break your project into three sequential or parallel sub-projects (may be easier to assemble them from smaller parts)
 	* Design the "sub-problems" after you've designed the sub-projects you care about; background explains the problems and defines success as solving the stated problems
 		* 3 is perfect; 4 is okay if necessary
@@ -159,3 +168,73 @@ Good intentions: Committees are unlikely to be experts in your domain byt they a
 * Submit grants all the time
 * Think in terms of big, complex projects that can be configured/studied by combining multiple parts
 * Get multiple small grants that run concurrently to prove you're able to manage a big grant
+
+
+# Afternoon session (13.45–17.00)
+Primarily focused on exercises
+
+## Promise sentence exercise
+The first sentence should make the reader want to keep reading. Remember that the committee member might have 100 other applications to read.
+
+_Goal:_ Create a plausible and attractive promise.
+
+**The sentence should include three elements:**
+
+* _The big picture:_ likely to advance an important area of knowledge
+* _How it will achieve it:_ likely to be successful
+* _Reference to achievements:_ you are competent to carry out the project
+
+(all in about 25 words)
+
+### Exercise
+1. Interview neighbor (3 min)
+2. Swap roles (3 min)
+3. Write sentence for your beighbor's project (2 min)
+4. Write a sentence for your own project (2 min)
+5. Optimize and discuss
+
+### My notes on Amie's project
+- MEG multi-task with production and comprehension tasks based on prev research
+how do you coordinate
+- have used MEG for this kind of task, but would like to vary the overlap timing
+- how people do stuff in conversation in real life
+- MEG specifically because good source localization which is important to know about 
+- we spend most of our lives trying to multi-task, but we still manage
+- dual task and language lit never talk to each other 
+
+### Amie's project (my attempt)
+The aim of this project is to better understand how different areas of the brain coordinate rapidly to enable everyday conversation by making precision measurements of brain activity via MEG while participants do tasks where they must rapidly switch between speaking and listening, building on innovative real-time interaction experiment methods we recently developed.
+
+### My project (my attempt)
+The aim of this project is to uncover how children's everyday experience of sights, sounds, tastes, and textures shapes the foundation for their language learning by studying children's early productive vocabulary across a range of everyday contexts in homes across Europe, North America, and other regions of the globe by significantly expanding on a set of tools and recording collections we have previously used for comparative projects on children's early language development.
+
+### My project (Amie's attempt)
+The aim of the project is to discover whether shared ss drive languaglg across a diverse range of languages and culres by cuollecting and analyzign daylong recs of infants' early speech using techniques i have established in prev data collection
+
+### My project (my attempt 2)
+This project will shed light on how young children's everyday experience of sights, sounds, tastes, and textures creates a foundation for language learning by extending and analyzing a set of audio recordings made during whole waking days in children's homes using open-source tools and databases we developed for a recent multi-site comparative project.
+
+
+
+## Pairing exercise
+Pair an aim (problem) with an objective (implementation). We need to know X because Y. We will do Z and it will tell us X.
+
+### MC's attempt at the EU-HomeBank project:
+
+**We need to know X because Y.**
+
+We need to know how the human sensory system constrains children's early word learning across languages because ...
+
+* _Humanities foundation:_ it will shed light on the cognitive origins and limits of the unique capacity for complex language. 
+* _Public health foundation:_ we may be able to utilize universal processes for language learning to support the development and maintenance of language skills in adults and children.
+
+**We will do Z and it will tell us X.**
+
+We will investigate whether children across the globe break into language by learning words that reflect real-world aesthetic experiences ("iconic" words; e.g., cock-a-doodle-doo), which will tell us how the human sensory system constrains early language learning.
+
+## Implementation sentences
+## Problem sentences
+## Write the Project and Next sentences
+## Write the Global Sales Pitch
+## Review exercise
+## Examples
