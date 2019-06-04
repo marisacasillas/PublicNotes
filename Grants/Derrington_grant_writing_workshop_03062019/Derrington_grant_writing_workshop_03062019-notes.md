@@ -20,14 +20,16 @@ Application type: Case for support (main text of proposal):
 
 All parts need to be designed to sell your project.
 
-### The 10-sentence summary
+### The 10-sentence summary (covered in more detail below)
 S1. The Promise + The Importance Proposition (pt. 1): Tells the reader, in a convincing way, what you are going to achieve with your project.
 
 S2. The Importance Proposition (pt. 2): What makes your project important to that funder?
 
-S3–S8. Statement of a problems and statement about how you will address it with a sub-project (2 x 3 sentences): Convince your funder that your project will be successful; use the "con" problem-solving technique (we need to know _SOME_ thing for _SOME_ reason + here's how x 3).
+S3–S5. Statement of a problem (planned such that your sub-project addresses it; use the "con" problem-solving technique.
 
-S9. Implementation?? (missed it...)
+S6. Introduction to your project in one sentence
+
+S7–S9. Statement about how you will address each problem with a sub-project. Convince your funder that your project will be successful (it should come together as we need to know _SOME_ thing for _SOME_ reason + here's how x 3).
 
 S10. What you will do when your project is done?
 
@@ -170,7 +172,7 @@ Good intentions: Committees are unlikely to be experts in your domain byt they a
 * Get multiple small grants that run concurrently to prove you're able to manage a big grant
 
 
-# Afternoon session (13.45–17.00)
+# Afternoon session (13.45–16.30)
 Primarily focused on exercises
 
 ## Pairing exercise
@@ -218,13 +220,13 @@ how do you coordinate
 - we spend most of our lives trying to multi-task, but we still manage
 - dual task and language lit never talk to each other 
 
-### Amie's project (my attempt)
+### Partner's project (my attempt)
 The aim of this project is to better understand how different areas of the brain coordinate rapidly to enable everyday conversation by making precision measurements of brain activity via MEG while participants do tasks where they must rapidly switch between speaking and listening, building on innovative real-time interaction experiment methods we recently developed.
 
 ### My EU-HomeBank project (my attempt)
 The aim of this project is to uncover how children's everyday experience of sights, sounds, tastes, and textures shapes the foundation for their language learning by studying children's early productive vocabulary across a range of everyday contexts in homes across Europe, North America, and other regions of the globe by significantly expanding on a set of tools and recording collections we have previously used for comparative projects on children's early language development.
 
-### My EU-HomeBank project (Amie's attempt)
+### My EU-HomeBank project (Partner's attempt)
 The aim of the project is to discover whether shared ss drive languaglg across a diverse range of languages and culres by cuollecting and analyzign daylong recs of infants' early speech using techniques i have established in prev data collection
 
 ### My EU-HomeBank project (my attempt 2)
@@ -277,6 +279,3 @@ The Next sentences introduces your discussion of what will happen after the rese
 ## Write the Global Sales Pitch
 Also known as the **Elevator pitch**. This sentence should state why they outcome is important:
 1. Give some stats/evidence for a real-world problem the project will help solve2. Say what the project will allow us to do that we can’t do now3. Prepare to say which funder priorities it contributes to (and how)
-
-## Review exercise
-## Examples
